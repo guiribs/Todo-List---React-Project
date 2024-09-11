@@ -31,3 +31,10 @@ Este é um projeto de **Lista de Tarefas (Todo List)**, desenvolvido utilizando 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/todo-list-react.git
+
+
+Tecnologias Utilizadas
+React - Biblioteca JavaScript para construção de interfaces de usuário
+JavaScript (ES6+) - Linguagem de programação utilizada
+HTML5 - Estruturação do conteúdo
+CSS3 - Estilização da interface
